@@ -1,0 +1,97 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+
+}
+
+.container{
+  width: 800px;
+  height: 550px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.logo{
+  width: 175px;
+  margin-left: 312.5px;
+  margin-top: 50px;
+}
+
+.logo-text{
+  color: #00dd00;
+  margin-left: 240px;
+  margin-top: -1px;
+  font-family: Poppins;
+
+}
+
+.green-tab{
+  width: 700px;
+  height: 30px;
+  margin: auto;
+  background-color: #00dd00;
+}
+
+.monopattino1{
+  margin-left: 50px;
+  margin-top: 10px;
+  font-size: 7px;
+  font-family: Poppins;
+}
+
+.testo1{
+  font-size: 15px;
+  color: white;
+  font-family: Poppins;
+  font-weight: bold;
+
+
+}
+
+
+.testo2{
+  font-size: 11px;
+  color: white;
+  margin-top: 0px;
+  margin-left: 2px;
+  font-family: Poppins;
+}
+
+.testo3{
+  font-size: 11px;
+  color: white;
+  margin-top: -10px;
+  margin-left: 2px;
+  font-family: Poppins;
+}
+
+.barra-arancione{
+  width: 240px;
+  height: 20px;
+  border-radius: 5px;
+  margin-top: -10px;
+  background-color: #f5b453;
+}
+
+.barra-verde{
+  width: 410px;
+  height: 20px;
+  border-radius: 5px;
+  margin-top: -10px;
+  background-color: #1ec31e;
+}
+
+.barra-rossa{
+  width: 105px;
+  height: 20px;
+  border-radius: 5px;
+  margin-top: -10px;
+  background-color: #be4141;
+}
+
+.button{
+  margin-left: 200px;
+  padding-top: 5px;
+
+}
